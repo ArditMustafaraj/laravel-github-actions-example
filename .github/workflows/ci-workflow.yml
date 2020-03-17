@@ -35,7 +35,5 @@ jobs:
 
     - name: run phpunit
       run: php vendor/bin/phpunit
-        echo "end of run"
-        echo "printed something"
       
 
